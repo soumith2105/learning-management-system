@@ -107,11 +107,11 @@ Throughout the project, we valued each other's opinions, availability, and timel
 
 ## Architecture Diagram
 
-![image](https://raw.githubusercontent.com/veeravivekt/lms-nextjs-frontend/main/public/Component_LMS.png)
+![image](images/ArchitectureDiagram.png)
 
 ## Deployment Diagram
 
-![image](https://raw.githubusercontent.com/veeravivekt/lms-nextjs-frontend/main/public/DeploymentDiagramLMS.png)
+![image](images/DeploymentDiagram.png)
 
 ## Deliverables and Weekly Scrum Report
 
@@ -143,7 +143,7 @@ Sprint 1 (13 Mar to 26 Mar)
 Burndown Chart Sprint 1
 </summary> <br />
 
- <img src="https://raw.githubusercontent.com/veeravivekt/lms-nextjs-frontend/main/public/Sprint1.png"/></a>
+ ![image](images/Sprint1.png)
 
 </details>
 
@@ -168,7 +168,7 @@ Sprint 2 (27 Mar to 10 Apr)
 Burndown Chart Sprint 2
 </summary> <br />
 
- <img src="https://raw.githubusercontent.com/veeravivekt/lms-nextjs-frontend/main/public/Sprint2.png"/></a>
+ ![image](images/Sprint2.png)
 
 </details>
 
@@ -195,7 +195,7 @@ Sprint 3 (11 Apr to 24 Apr)
 Burndown Chart Sprint 3
 </summary> <br />
 
- <img src="https://raw.githubusercontent.com/veeravivekt/lms-nextjs-frontend/main/public/Sprint3.png"/></a>
+ ![image](images/Sprint3.png)
 
 </details>
 
@@ -218,7 +218,7 @@ Sprint 4 (25 Apr to 8 May)
 Burndown Chart Sprint 4
 </summary> <br />
 
- <img src="https://raw.githubusercontent.com/veeravivekt/lms-nextjs-frontend/main/public/Sprint4.png"/></a>
+ ![image](images/Sprint4.png)
 
 </details>
 
